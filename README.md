@@ -1,0 +1,2 @@
+# strcompare
+compare two string
